@@ -1,5 +1,5 @@
 # selectJ
-Jquery plugin for select with multipĺe options and ajax
+Jquery plugin for select with multiple options and ajax
 
 ---
 
